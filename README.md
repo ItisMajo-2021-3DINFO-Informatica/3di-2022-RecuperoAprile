@@ -2,7 +2,7 @@
 ## Esercizi di recupero sui vettori e argomenti connessi
 Usando Visual Studio, risolvi gli esercizi seguenti tratti dal libro di testo (a partire da pagina 200 fino a pagina 217). Scrivi la tua soluzione *prima* di confrontarla con la soluzione del libro. **ATTENZIONE** Il libro utilizza la lettura dei dati da file, tu dovrai sostituirla con un input semplice da tastiera.
 
-Nomina ogni progetto secondo lo schema CognomeRecuperoAprileN dove N è il numero dell'esercizio, per esempio: BozziRecuperoAprile1. Consegna il tuo lavoro utilizzando GitHub Desktop. Se non ricordi come fare, consulta il documento che trovi in questa cartella dal titolo [Lavorare su un compito GitHub.md](Lavorare-su-un-compito GitHub.md)
+Nomina ogni progetto secondo lo schema CognomeRecuperoAprileN dove N è il numero dell'esercizio, per esempio: BozziRecuperoAprile1. Consegna il tuo lavoro utilizzando GitHub Desktop. Se non ricordi come fare, consulta il documento che trovi in questa cartella dal titolo [Lavorare-su-un-compito-GitHub.md](Lavorare-su-un-compito-GitHub.md)
 
 ## Tracce degli esercizi
 1. Scrivi un programma che permetta di assegnare i valori letti da tastiera a un vettore di 5 elementi.
